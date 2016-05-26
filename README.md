@@ -2,14 +2,15 @@
 
 - 详细使用[教程](http://baidu.com)
 
-![scan][1]
+<div align="center">
+<img src='./images/screenShot1.png' width='300' height='500' alt='蓝牙扫描'/>
+</div>
 
-![services][2]
+<div>
+<img src='./images/screenShot2.png' width='300' height='500' alt='服务和特征'/>
+</div>
 
-![readValue][3]
+<div>
+<img src='./images/screenShot3.png' width='300' height='500' alt='读取特性值'/>
+</div>
 
-[1]: http://www.baidu.com "蓝牙扫描"
-
-[2]: http://www.baidu.com "服务和特征"
-
-[3]: http://www.baidu.com "读取特性值"
